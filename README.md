@@ -19,5 +19,3 @@ Founder of [Magoosh](https://magoosh.com) — online test prep that's helped mil
 **Background:**
 
 I'm a builder who learned to code by shipping products. Started Magoosh in 2008, grew it to profitability, then co-founded Alo Moves and ran it as CEO for ~7 years before selling to Alo Yoga. Now back at Magoosh, focused on what AI means for education.
-
-Based in Seattle. Seahawks & Mariners fan. Dad of two.
