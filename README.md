@@ -6,15 +6,15 @@ Founder of [Magoosh](https://magoosh.com) — online test prep that's helped mil
 
 **What I'm working on:**
 
-- 🦞 Contributing to [OpenClaw](https://github.com/openclaw/openclaw) — open-source AI agent platform. Landed 5+ PRs across Discord UX, Telegram, and the ACP protocol bridge.
+- 🦞 Contributing to [OpenClaw](https://github.com/openclaw/openclaw) — open-source AI agent platform. Landed 8+ PRs across Discord UX, Telegram, and the ACP protocol bridge.
 - 🎓 Rebuilding Magoosh's core product with AI — adaptive tutoring, content generation, and agent-driven workflows.
 - 📱 Building side projects with SwiftUI, Cloudflare Workers, and whatever's fun.
 
 **Recent open source:**
 
 - [`feat(discord): interactive model picker UX`](https://github.com/openclaw/openclaw/pull/21458) — built a full interactive model selection flow for Discord
-- [`fix(acp): propagate setSessionMode errors`](https://github.com/openclaw/openclaw/pull/41185) — ACP clients now learn when mode changes fail
-- [`fix(acp): map error states to end_turn`](https://github.com/openclaw/openclaw/pull/41187) — gateway errors no longer misreported as agent refusals
+- [`feat(acp): session resume for sessions_spawn`](https://github.com/openclaw/openclaw/pull/41847) — hand off Codex/Claude sessions across devices via `resumeSessionId`
+- [`fix(acp): scope cancellation and event routing by runId`](https://github.com/openclaw/openclaw/pull/41331) — fixed cross-session DoS in ACP cancel with scoped runId fallback
 
 **Background:**
 
